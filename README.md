@@ -1,1 +1,3 @@
 # Banking-App
+
+The Banking App is a Java Swing-based application designed to provide users with a secure and user-friendly platform for managing their bank accounts. The application supports user registration, login, and account management functionalities. Users can create regular or student accounts, perform transactions, and track their chequing and savings balances. The app also features settings customization, including dark mode, username/password changes, and a scheduled savings addition. The primary goal is to create a prototype banking application that could be applied in the real world.
